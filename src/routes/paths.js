@@ -1,4 +1,4 @@
-export const memberBaseUrl = '/';
+export const memberBaseUrl = '/thrillers-ui-challange';
 export const authBaseUrl = '/';
 
 
