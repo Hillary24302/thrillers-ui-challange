@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/thrillers-ui-challange/static/css/main.d0331990.css",
+    "main.js": "/thrillers-ui-challange/static/js/main.e7c94a56.js",
+    "static/js/453.2a6a1749.chunk.js": "/thrillers-ui-challange/static/js/453.2a6a1749.chunk.js",
+    "static/media/image.svg": "/thrillers-ui-challange/static/media/image.022750d8b45c7c2ade952709ac677c15.svg",
+    "index.html": "/thrillers-ui-challange/index.html",
+    "main.d0331990.css.map": "/thrillers-ui-challange/static/css/main.d0331990.css.map",
+    "main.e7c94a56.js.map": "/thrillers-ui-challange/static/js/main.e7c94a56.js.map",
+    "453.2a6a1749.chunk.js.map": "/thrillers-ui-challange/static/js/453.2a6a1749.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0331990.css",
+    "static/js/main.e7c94a56.js"
+  ]
+}
